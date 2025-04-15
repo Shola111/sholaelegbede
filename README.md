@@ -10,6 +10,7 @@ Welcome to my GitHub! I solve real-world problems with scalable data and ML solu
 - Build fullstack tools for internal analytics and product features
 
 ### 📌 Featured Projects
+- A/B Test Power Calculator
 - 
 
 ### 🧰 Tools I Use
